@@ -10,7 +10,7 @@ void main() {
 	while (continueProgram) {
 		printWelcomeMenu();
 
-		printOptions();
+		printOptions();  
 
 		int menuInput;
 		menuInput = getIntInput("Enter menu option number:");
